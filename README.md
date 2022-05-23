@@ -56,3 +56,13 @@ Text 변수에 검색할 키워드를, start와 end변수에는 수집할 게시
 ![image](https://user-images.githubusercontent.com/61917990/169750547-504199ee-f284-49c6-850c-d231dcbb19dc.png)
 
 Spark sql을 통하여 2019년도 서울시 업종 데이터를 query하였다. 위의 sql문을 통해 도출된 결과는 2019년 서울시에 자리 잡은 업종 순위이다. 위와 같은 방식으로 2020년도 분기별로 서울시 자리 잡은 업종의 순위를 분석하였다.
+
+![image](https://user-images.githubusercontent.com/61917990/169750736-487c14a4-64aa-4dc7-bafb-d6819a6f0666.png)
+
+주요 업종과 더불어 개업한 업종의 순위를 알아보았다. 이도 똑같이 2020년을 분기별로 분석하였다.
+
+![image](https://user-images.githubusercontent.com/61917990/169750766-27e56b41-a4cd-4fa5-ad67-c4a7ac1e491d.png)
+
+다음으로는 평균 폐업 율 순위를 분석하였다.
+
+* 분석 결과(주요 상권 순위)
